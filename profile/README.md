@@ -17,13 +17,14 @@
 **It prioritizes security with regular updates and resource-efficient features, including blocking 2.2 lakh malicious websites at the OS level and offering the Sahayak Helpline App for reporting cyber threats. Additionally, it provides a customised Chromium browser with essential extensions and tailored font for specially-abled children, and allows users to monitor their activities through Activity Watch. Oshin OS is committed to safeguarding users and their loved ones in the digital realm, offering an extensive community support.**
 
 
-**To know about Future Goals [click here]()**
+**To know about Future Goals [click here](https://github.com/Oshin-OS-Official/#future-goals)**
 
 
 # Future Goals
 This is the list of all the future goals of this project.
-- To add realtime reporting functionality to [Sahayak]()
+- To add realtime reporting functionality to Sahayak
 - To add more desktop environments
+- To add more functionality to the operating system
 
 # Acknowledgements
 We thank [eznix](https://sourceforge.net/u/ezos/profile/) for the [ezarcher](https://sourceforge.net/projects/ezarch/) project, which served as the foundation for Oshin OS. 
